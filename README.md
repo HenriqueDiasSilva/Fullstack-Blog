@@ -1,36 +1,41 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center"> Fullstack Blog </h1>
 
-## Getting Started
+<p align="center">
+Fullstack Blog is a blog project that allows users to view current posts from various authors and manage their own posts through an administrative area that offers creation, editing, and numerical views of their posts. <br/>
+</p>
 
-First, run the development server:
+<p align="center">
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#%EF%B8%8F-license">License</a>
+</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 Technologies
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+This project was developed with the following technologies:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- Next.js
+- Prisma
+- NextAuth
+- PostreSQL
+- Github
+- Vercel
 
-## Learn More
+## 💻 Project
 
-To learn more about Next.js, take a look at the following resources:
+The Fullstack Blog is a blog project for viewing, creating, editing, and numerical visualization of posts.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [Visit the online project](https://fullstack-blog-xi.vercel.app/)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+## 🖊️ License
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+This project is licensed under the MIT license
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-"# Fullstack-Blog" 
-"# Fullstack-Blog" 
+---
+
+Project made with ♥ by Henrique Dias Silva and designed with ♥ by [Jackson Gomes](https://github.com/jacksongomesbr).
